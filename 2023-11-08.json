@@ -1,0 +1,26 @@
+{
+  "name": "Virginia Wood",
+  "age": 29,
+  "address": {
+    "street": "Avti Extension",
+    "city": "Obluco",
+    "state": "AR",
+    "zip": "74008"
+  },
+  "contact": {
+    "phone": "(527) 648-9525",
+    "servicePhone": "800661765"
+  },
+  "birthday": "1985-08-23T16:42:19.688Z",
+  "ip": "210.102.206.217",
+  "foo": "bar",
+  "profile": {
+    "about": "Zumonru goefi ked zat zawulli oda varpih usi jivfeid ik fom savuz ajukejah nonu nulap wipmojini. Hiido hoclodsar puwug acuwuza ros kiiw ic unpirnil mu ove armo rare fu bi ezna. Ibogupnad gonacas saddeg ro fabgemzow gizaku targi pi cevzuola ugeasso bemu fiwvotti cu hatorito kemrit. Mecuup fuvcidge zaem um arhak dauh fadru gogpehlip teucunuh do ise zahedpu pes. Cede gav wo bitki sedak zadu we war ki jagu janju kaampej evooveim be re fucbav mumcig. Kofovili jakar junoso edecas loilozir beltaba ma nec legsasid api kakle kamvos lik guvezbu cakma kiluc.",
+    "bio": "Amoho pene gigimrus pekun nejrul wogemos arije vuutibi poegokul eflo nabco tajnit kuvwup be. Vot odkusora kaz medohsew nuhkiz di ejwa mocifo pebowag avaga mo ruj pol nucta aj mijez rid. Tubakos bi sugvirsi ugoka cih piopgip le gur kuvi cetloz puumaif hum jecivef sihzul ukpam ole."
+  },
+  "apiKey": "0e2b3b112493c11ea5fcf10ececf1408c7afb87b08af648ee1bed2a76d5e20ed",
+  "currency": {
+    "code": "TND",
+    "name": "Tunisia Dinar"
+  }
+}
