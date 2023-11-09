@@ -1,0 +1,26 @@
+{
+  "name": "Jim Ramsey",
+  "age": 38,
+  "address": {
+    "street": "Wokra Parkway",
+    "city": "Oshosro",
+    "state": "AR",
+    "zip": "47102"
+  },
+  "contact": {
+    "phone": "(827) 972-5711",
+    "servicePhone": "800586472"
+  },
+  "birthday": "1986-07-29T03:58:19.762Z",
+  "ip": "168.210.180.240",
+  "foo": "bar",
+  "profile": {
+    "about": "Bilu umebagcek potjuco ke enu jijater du nofwus vew lav sez ertikmej silabeh ke ze hirav hewravuk. Uba uwa eku mar jabmale vofwiw ufeojevot om caltem ulaki zamrow diuvto se ucoonade zofnike cef. Cahaik luwdo ri enomu ma to unujote utrape ucemenos adnukip uk beroke wecop hifubeme icowenage dutpeco un ur.",
+    "bio": "Hugtissa hu jilvip po rapedpat fo rirwu doruj sice god budovcaj lav vujepesa ciipbut daju. Papaj losseje me zurpe kuvzaron lumozet idakak jazafemi uderotket ahdisar suhparcoz fiibvi ectecvet ralwakive vimadbid jubge. Buluom jaf refat jokujpon gutamub vizi hipa la hadogo oku jufezez agtubo gotosgam bu."
+  },
+  "apiKey": "890c8210df28fa5e59b3cecaa9696b0d11625c64935cd9808f4b0f4239298b43",
+  "currency": {
+    "code": "SLL",
+    "name": "Sierra Leone Leone"
+  }
+}
