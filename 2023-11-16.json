@@ -1,0 +1,26 @@
+{
+  "name": "Gary King",
+  "age": 40,
+  "address": {
+    "street": "Toju Center",
+    "city": "Kodujoj",
+    "state": "PA",
+    "zip": "85091"
+  },
+  "contact": {
+    "phone": "(357) 629-6468",
+    "servicePhone": "800149642"
+  },
+  "birthday": "1994-08-22T23:29:29.913Z",
+  "ip": "114.33.149.43",
+  "foo": "bar",
+  "profile": {
+    "about": "Mebjeid oca wudbe kiwip panuti memebum rihepu zedic cokap jebronab ih ciraego zaw lomise. Ocijunu duipu alo mulofoju su mo vaela idjeroho zowmi owi hij nuz viribusu kuzi go elmeg. Lopi movo fimevi hilojit va metutbu li pursaw epumofu nig ohga jegzel gohpu mamfaw omebigle.",
+    "bio": "Tinjaoca faddena epuk jatorgac damedog nobusug rirgilkow we jegu kuc banumebe dafmo zi ru. Tawtam fuccag di nodiva ohe atuud kapjewhoc lijeknun piwku zafazoso ze deksi. Ew simrelca bi ukgop jeesiri mitagva gujdef duk mu awu vubbopud nolwut dur pe pim. Uhofe fipta gofawa vave umruwoh pidieti na sohe fulerbo guwzusdu zitug zumiw dinebhi."
+  },
+  "apiKey": "279f85eadba3e5cbe9bdcb04121cde8b1de8e9bb093746395ba957b7fb78f346",
+  "currency": {
+    "code": "BND",
+    "name": "Brunei Darussalam Dollar"
+  }
+}
