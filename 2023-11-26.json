@@ -1,0 +1,26 @@
+{
+  "name": "Mae Nunez",
+  "age": 55,
+  "address": {
+    "street": "Befo Court",
+    "city": "Onajocug",
+    "state": "AK",
+    "zip": "14380"
+  },
+  "contact": {
+    "phone": "(400) 308-6344",
+    "servicePhone": "800862967"
+  },
+  "birthday": "1987-08-07T02:33:33.409Z",
+  "ip": "130.111.136.8",
+  "foo": "bar",
+  "profile": {
+    "about": "Sih aze uvgoh bajnu ok kanu gihpec kujhafev foegozaw rit mawoh tuzujoce mofic pakje mubhen ped inavoka jelerele. Uh toho itgufaf ba ozice rofutusi sekigzu ked ve wof tehlu jotveldo teliz kib gapsu ve unigod. Ci adasibik sorleda kar je ewmin gipave je duvdod jidduleh nezjad id.",
+    "bio": "Hocaghij ucsak sajtis elifu halcag dipepi tacamfa mefoj hu geana ovop mudamu robsap wufo cuvzolnew vehijwat. Ow gizze sovok cer zen tafog gi kosvuw mune zomzam urotaviho len insomwe hom bokuva. Vaskob mivhoki mewu hugsu ged esa farza osojga to jukopli cituzweg tagpun kawtunal."
+  },
+  "apiKey": "93f6fdbdfb2feda7a668bd22c11ffdc21ffcbf4add49f24b6b375adb5c909b9c",
+  "currency": {
+    "code": "CRC",
+    "name": "Costa Rica Colon"
+  }
+}
