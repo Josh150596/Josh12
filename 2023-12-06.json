@@ -1,0 +1,26 @@
+{
+  "name": "James Maxwell",
+  "age": 18,
+  "address": {
+    "street": "Igozo Road",
+    "city": "Nuzgiwi",
+    "state": "IA",
+    "zip": "63659"
+  },
+  "contact": {
+    "phone": "(644) 804-4679",
+    "servicePhone": "800661651"
+  },
+  "birthday": "1965-09-12T08:09:28.987Z",
+  "ip": "11.163.63.39",
+  "foo": "bar",
+  "profile": {
+    "about": "La aju nafdor gajnospe rowug nu den wohtikde riwaca rofa ri wo muv fa. Falowef bulawha wipput etilo cu zojot rathafvi zemwatot mokpebhu ifokid bel ano. Epojat lerteztu kervada utu pin iropu cigwilez votumu rocirge lawag wisni fuvseuri norek owte. Tig higowmij hotrirni vuwu boazorif puog dazaz jedfacdiz nefofi vopa evpijapa luifadin. Revun bav iwrogci fockowa fi pob oge pohureg funiv bucikmo bijer hole udigirit bizca. Ra morecawuf vuzaho vovwobu gewapa bitno jusvilsop iwvudog baozgi famhonem toj dir ru ovifu as. Lihbi vuma aku pite ta tegafkub baodofe kapwucor umlediw ki gunjip boigone faltavpo apumowfuf.",
+    "bio": "Baf seskog eg akirovu ce reke efoawnep uh ep ussas gom zotacu nahcef utanentu per dip. Dadeaf tirip winsihoj ti ruse hig loipevo as ec ci faoho zelhe dijnaezu va tutrijore ufu bar reza. Usi kewze sasor ujve cimofu izutovem bowre puhnu wapiwvuz ju kuvtipdaz johhapsav kiwaro. Iw wuhen kejhu ji zofewiada bipvosfa zejunhu tapatuz cube weeha mop wulipneh. Huem ovhuz honez viamo vaf haluco vuwtehjeh mafolfe ladguna sannec nonzise afvahfar etu darla puhu te co. Okunu fuca lofrinwu kobdi genotne wi ogmalfap ogi teswehbij bevim uvu mafhumsa zuasa ekaluwtuf idarid."
+  },
+  "apiKey": "434d7c995cfa5ff91e25ff82cccfbe84c0e6341ea3e266c5ace19a7c7c7ed6dc",
+  "currency": {
+    "code": "PAB",
+    "name": "Panama Balboa"
+  }
+}
