@@ -1,0 +1,26 @@
+{
+  "name": "Gary Robbins",
+  "age": 49,
+  "address": {
+    "street": "Zare Junction",
+    "city": "Keazda",
+    "state": "NH",
+    "zip": "69943"
+  },
+  "contact": {
+    "phone": "(936) 633-5652",
+    "servicePhone": "800365562"
+  },
+  "birthday": "1970-05-10T23:08:35.430Z",
+  "ip": "75.38.2.40",
+  "foo": "bar",
+  "profile": {
+    "about": "Va ele gugo ak jiul lo rova bep jur feab fedrir he un liupra sad. We mozwem ebogem derotecu vighibime govikko bodzekaf harat osimuj lumtuk akoja oldiruj sidazuri. Niz guotupu ajeti lah ugbi maiguna tovuko covas zenlehbe he lavumwah rohcejcu so ad.",
+    "bio": "Mowugel nunog ri tag biltegli koc neerme hufno kibin roljihi uv no ifcu awgiciv ijowu coopaper. Merol jibap vuf ijaidro ce tecomdih za lituhe jir vugov digbus af davuh. Cubejub feohso hobaw pirfusam ozi hidhi mewun niapoma ulipani jofsa siav osioce dadismub."
+  },
+  "apiKey": "1a83729f851ea1c89e5c3c49c59dab85c4559113aa6e34df33fb24197bd37d5b",
+  "currency": {
+    "code": "RON",
+    "name": "Romania New Leu"
+  }
+}
