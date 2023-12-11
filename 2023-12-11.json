@@ -1,0 +1,26 @@
+{
+  "name": "Glen Maldonado",
+  "age": 33,
+  "address": {
+    "street": "Docal Circle",
+    "city": "Kevuhaci",
+    "state": "WI",
+    "zip": "36771"
+  },
+  "contact": {
+    "phone": "(705) 756-6211",
+    "servicePhone": "800643897"
+  },
+  "birthday": "1999-10-09T04:15:09.062Z",
+  "ip": "95.205.23.218",
+  "foo": "bar",
+  "profile": {
+    "about": "Nihewaiz nat kuv feva basod mi cud rabvej zoguc ru benu go jit. Timekmu ape fem zu wultiw de finjusih ni saperegu fevugok po ojceb vineknet raav. Jeksisudo meji okjib soti gahi fosca te abwitbun mudolo wabur acewup tak.",
+    "bio": "Oja jomwifu zoal comtisho ickugvem tapigser wobuub sicsuckin jak mis vi ip pinoz webedzag zagzidne ez molalu jow. Gobuci juelcop zimifav umo gu suvhula giufja zebejtun fa ne hokuhi juhem ocicehih miwjev zahuce ninvegpun feudekon enuwibbi. Cuwo egget ule mic woiwnor safhalsob zus gol ni susra ne safi kohepu. Sef ko jalak mahcokdug odazovaw deb iraris dofla jotuj zuw hijof nabwit fudzev gejeb."
+  },
+  "apiKey": "5e1271d9a0dd18ce224242937625e60dc58693b3de19fcd6d2c47cef9886ae5c",
+  "currency": {
+    "code": "KES",
+    "name": "Kenya Shilling"
+  }
+}
