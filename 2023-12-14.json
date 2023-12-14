@@ -1,0 +1,26 @@
+{
+  "name": "Nannie Peters",
+  "age": 30,
+  "address": {
+    "street": "Hacup Path",
+    "city": "Asejeza",
+    "state": "WI",
+    "zip": "61606"
+  },
+  "contact": {
+    "phone": "(460) 728-5903",
+    "servicePhone": "800938314"
+  },
+  "birthday": "1983-01-08T13:11:59.418Z",
+  "ip": "49.147.132.55",
+  "foo": "bar",
+  "profile": {
+    "about": "Ciz alolakkah kaiw du birzievu tokof ge kimkemsus lodipuc etu nirosdu irsa wemufkeb tighonub. Ekiboru kot dog ganun eja or lazes duhheguc bolas enjutvo dicaju odineruw. Dig aweje muljoih fihe ji nad wohavura ji hadiwew ov bocezo eh fak bib ma iw. Beoc ibi gebehu taspoona dohewga ticase maplin ji be zutawse kijeho sane zapoika zugepe nepcifec ujeve fovje. Kanteco niz ladzizpon dolruk inuav gohsa berda poj ifoazigik po ermag valozgap jafiko maz hucnil ajafo geb.",
+    "bio": "Wepev hosivlak wurpiku hukal isiraheb if eg koc jeddeta gubfez lawiskem zod goejeke mowi bot tin. Cohbub tad pa fo cuseku lijacvok kudec bowajo evicec ijadube zujfidle mad rarigse kajotdus sovmi va finu. Op lute naku ma vuceh hu fec ebumeod baizo cud izu dut fetrebbet. Bed zike mi govduav el ca gofkuju jicpa judefi kutremha fakin pa webfugpom oce vu munmuzhe vahu wepitwon."
+  },
+  "apiKey": "b5a750feeaa5f9eb7cc244044592c3d389bc0ab849ea99d605ad616bfc87513e",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}
