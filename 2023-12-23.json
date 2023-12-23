@@ -1,0 +1,26 @@
+{
+  "name": "Mattie Castillo",
+  "age": 32,
+  "address": {
+    "street": "Waeme Heights",
+    "city": "Cicurho",
+    "state": "CO",
+    "zip": "83098"
+  },
+  "contact": {
+    "phone": "(789) 284-7882",
+    "servicePhone": "800937482"
+  },
+  "birthday": "1969-03-18T19:00:18.238Z",
+  "ip": "158.49.238.69",
+  "foo": "bar",
+  "profile": {
+    "about": "Lipe fu afu ruk obakoos fih tuc kozsu ovjoh fasa fipbuzum kugafik bojaleme. If havef kakuz pophib enamah ni bukme taide muvav hawval facfu kot zim. Helig gokejhiz evuwoeb akezuefi forumo edire mocu ilu didfeud digedu erafwok nielza dobobiw ne ahapo. Wajes zuw sap wen zidvan wigpuim ow omdowgu ki dujzu togli gocki ob. Ne ipuzila tiwpa amuwi etneb aj kogu sa jikiwwe vuz noj ega vefusaza sifehoz vazucad kovsas civu. Ogehibif kujeev bawvecgu cuw re oluwazcu tonnim odiw gejo lotupmos tifu cezlap sorekaaru esifum. Fekev vueker daatikum nu juv po boem ekewi vem amefo ve hulhum tezeg.",
+    "bio": "Mup cicba daw edi bodiigu zu raczomat usijapoh na duj valim pibkoh. Abwuk waban ewifiri ev vafvoto kowi viku humkeriv sovof lic soshivih lubuzek hakmikfi vepek. Eh aheow wombur buj gicdireg sa kihawin dehalaw digu vo nakeh jomgil tosteh vatik."
+  },
+  "apiKey": "a3ebeff4eda86c2130cbb7ec4c16489598228a67cc5723ced3818bae008779e1",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
