@@ -1,0 +1,26 @@
+{
+  "name": "Matthew Bass",
+  "age": 18,
+  "address": {
+    "street": "Sisaj River",
+    "city": "Vatapeko",
+    "state": "CO",
+    "zip": "74624"
+  },
+  "contact": {
+    "phone": "(926) 584-2449",
+    "servicePhone": "800383755"
+  },
+  "birthday": "1985-12-02T02:16:54.081Z",
+  "ip": "85.237.196.251",
+  "foo": "bar",
+  "profile": {
+    "about": "Palij ardafib li tenlerko belcagu ede igu tev kopbimo wi ja miojvug. Pabi vizre joal gogazbe zohon kahbale fise gonsob titfo lanuica si hebez. Vu rifabkoz valijrim aretumid ba jafi ehsefhi fokofe sosojec miv jeiliba tofoepu casaweca.",
+    "bio": "Olsafho gip va fapecwas ugri wew dujle ca rawowozu sabbo sirbod tocutwel olonek ujuso. Gubrive seodo maduledor hit womevaed ipahodik nepton tefipi lomramul limamif ke hocuwgi umluh cibnicoz imutiwab tafugi zusfighi le. Vov poma vicediw or okegab zapko jucpucpa en naca evwuwso asekut ban leclolcu melguf ejaosuoh rej povoco. Tunak ke ik rujof ecaejwez nuwagaofo mutuz lukcedef od awunav miswi cija doduj ivraw isamne ne abinim."
+  },
+  "apiKey": "0504f6d4b3ef04b210eaa114b91b64f02b42503830b15f1a97b9c7bee9ecbe65",
+  "currency": {
+    "code": "BAM",
+    "name": "Bosnia and Herzegovina Convertible Marka"
+  }
+}
