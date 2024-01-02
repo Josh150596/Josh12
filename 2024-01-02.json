@@ -1,0 +1,26 @@
+{
+  "name": "Mark Brown",
+  "age": 31,
+  "address": {
+    "street": "Awje Point",
+    "city": "Iswuzin",
+    "state": "AR",
+    "zip": "48857"
+  },
+  "contact": {
+    "phone": "(360) 545-4348",
+    "servicePhone": "800923779"
+  },
+  "birthday": "1974-04-20T18:45:51.167Z",
+  "ip": "5.117.232.40",
+  "foo": "bar",
+  "profile": {
+    "about": "La de cig gi ta bujeedi ok huluvirig lu piw terifo kavti miwo le. Izgan jiffe ar soal hecebku ger da okuom usa za potcomivu wuto wejoldew idemenoc zijig jeflat zebudpu af. Cow bo zu lut decija cesa wosiban ijicezcu seffe bu jupter oca ifobesaf kasogup kibdabga. Unemil evunuuk wujizocu oja ri be pag himoke juwrivkuc no vate vuw zu busmabos teafa wor jan.",
+    "bio": "Vef gasemu kalcov poroc cikuh os wa ejduc coz gaufubel hiffaasu hetu mec eza. Wihoz fun keriv raj ere ti ke lekkiraz foseih zih wizduaca ewcow ac av. Pidezrem gaak gongos pi se gub jep ce gidtiol ruv ulhijuj tu zotit lavuzale saflun hagpugiz ra perur. Lompuz he walpo ejabaifi gup siwwama hizic isarocevi defkiil biew zudfaza ojveton."
+  },
+  "apiKey": "f74535f66553a20511432bc0d7ded1212614013c04fa0a9ecce882a04f8121d5",
+  "currency": {
+    "code": "GYD",
+    "name": "Guyana Dollar"
+  }
+}
