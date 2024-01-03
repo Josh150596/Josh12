@@ -1,0 +1,26 @@
+{
+  "name": "Jason Reeves",
+  "age": 48,
+  "address": {
+    "street": "Rerob Point",
+    "city": "Puliflin",
+    "state": "MA",
+    "zip": "05508"
+  },
+  "contact": {
+    "phone": "(481) 761-8223",
+    "servicePhone": "800622142"
+  },
+  "birthday": "1984-10-25T22:33:44.709Z",
+  "ip": "94.246.37.176",
+  "foo": "bar",
+  "profile": {
+    "about": "Kudgeut kamu buwokbuf wocju ig liugvet jij lufukga wipufen mi kuopudu femdaf. Wo hawo ehe nu facsecem taci ijidu viri eku mooru zukobe kagesozo vu lawednaw dem fej bi pud. Tupnotpig bemeg lajmi millu ru bijlu giife rivdo vo urji vabobkip rucneh.",
+    "bio": "Uwvope paedowet dam regcihuf hangahop av zis vobar hossaje veukdib bu wimsil. Uhado ebifa ve ecroppo feokuaz uptepus epnuja irnavi wohkulej wihno peppaj giwi asuga nukekdob esrumwe muvre. Ugpa je kit emhi hifju ge vozooz unopaksol ram to luwkemme roto ancufor wenesav agleri ino pehnenin ozede."
+  },
+  "apiKey": "0d28fc4a9c929eb3bae61a750f690c89f124102ddb330b5d29af4c6a8c31df21",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
