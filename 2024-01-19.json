@@ -1,0 +1,26 @@
+{
+  "name": "Shawn Hayes",
+  "age": 21,
+  "address": {
+    "street": "Asued River",
+    "city": "Ebhivec",
+    "state": "MD",
+    "zip": "99022"
+  },
+  "contact": {
+    "phone": "(200) 929-5311",
+    "servicePhone": "800637489"
+  },
+  "birthday": "1973-03-22T15:55:21.120Z",
+  "ip": "67.199.1.188",
+  "foo": "bar",
+  "profile": {
+    "about": "Sepe risef da jakufuh wuwwiz kenece rip re tagta kob colbo keru ebo zugacgo. Mus gijki be osuveci higsi pifuiz onipo gugrefen dulcucset li ges baatekoj cu. Ru sah fupo wilob gah id abar regdec kaca sosloma ehaudow nowhetah. Najde luv dofuf va agohini bodes cif degecla pavo adu desikah pergok bi kiolzo muziji bobceja. Deba osmouva vadorce ekvus ficsoade bebgatga nerahpap it fu ve veuhahug pof hevtiehi puwra atnuril buwnisi walolosed hitti.",
+    "bio": "Gow si imdiv wuv nohogmu vokuefa ogi tono uli zogtiuge necluuh pekijaha ucaibako atdaku mep nujivema maw. Goc ez eca ciduca gefilalip fecig palloko ofofap kupogu uwa umi unfe tom radov zo. Izped hit rej mikza kif dug fu er egeusde puehi ef len ovgifa wi mof ude jatelit wumufu. Ven ze ugmenal amo inounu ulnacbir hug pedugjib icagupup ce gajviwuc kewcidhi be fonatuti irgav kohlo ikuzac agin."
+  },
+  "apiKey": "daebed7f5b77bad1e051d196398d2248c080af72a61be37e822fb5d3752d80cb",
+  "currency": {
+    "code": "TRY",
+    "name": "Turkey Lira"
+  }
+}
