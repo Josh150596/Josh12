@@ -1,0 +1,26 @@
+{
+  "name": "Sam Perez",
+  "age": 64,
+  "address": {
+    "street": "Vuuk Grove",
+    "city": "Nuslevho",
+    "state": "NH",
+    "zip": "06367"
+  },
+  "contact": {
+    "phone": "(765) 742-1489",
+    "servicePhone": "800857813"
+  },
+  "birthday": "1990-04-11T11:08:38.814Z",
+  "ip": "51.39.206.114",
+  "foo": "bar",
+  "profile": {
+    "about": "Nejin jakac ipuboshi ehiafe zosotoc kirmil umvid decfumvi ihibace kes binoci li boscocwu anwehva. Wovfezke ranahco fi ne bewrosum gumewel noebe afokiudu umofa cu ivdahev ojheog otmu ke bod. Canez razro zeh jepivdu ahja so befi kednevzej nanip pubutlur bigsa icsechut fijpavip ba eze ve.",
+    "bio": "Divte sotvah kejaho vaz el un zeugwa ibik nev orinut biv iwodek vokrawroc. Ugjiuju har afule jadep jemop leipewoj ep vehko ip tehewanij red mirec udne hi futsu. Vagekoj ibigehhu redofim ajzi mebos rotilobuv defjiuf cewcid dapwokuc jogo aca guhaiw tocudle."
+  },
+  "apiKey": "0ed4c04938a2573a9434405ca6974a4d396cc6c95cf73d1deea1bb0e7ae44c4d",
+  "currency": {
+    "code": "MRO",
+    "name": "Mauritania Ouguiya"
+  }
+}
