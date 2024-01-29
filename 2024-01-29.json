@@ -1,0 +1,26 @@
+{
+  "name": "Estella Mack",
+  "age": 52,
+  "address": {
+    "street": "Fecop Street",
+    "city": "Kitakla",
+    "state": "IN",
+    "zip": "95173"
+  },
+  "contact": {
+    "phone": "(543) 789-2685",
+    "servicePhone": "800992313"
+  },
+  "birthday": "1995-11-23T16:34:05.903Z",
+  "ip": "47.100.110.34",
+  "foo": "bar",
+  "profile": {
+    "about": "Veiw kuguznes wofuk tebitiso jiis kupte tego bi fasive ahihosek ac buwcedu rekace litemsuv omo watejizu ufawatew tes. Abhora si zami umifuce jownu ofiuco newcow tew guvu tutrez hewuhlon use guriw mobiloj. Vezbunma kivgaweko pisoti gibuuke rarus cu rur zohov ar wuduwaigu uhpoh ame re sa uziku mi heunebo.",
+    "bio": "Zed gasuh pufa ga jipumiavu vudebutat lucu hued jut duviv ro lab paczar vucovbef ec kes ufzi zicpotsa. Pe solic mezasjis hojlo juri livsorew bas al so bocom todadbos vujjuc lopaltoh ja. Piate onruv dagec vetemok feiwizam tegowari nitzac cobediro itehikzar bal be nojed ocafip."
+  },
+  "apiKey": "c8591531f480f083eed4f57fb15a39fa459bc595489b27e2972761d31fc78b92",
+  "currency": {
+    "code": "MUR",
+    "name": "Mauritius Rupee"
+  }
+}
