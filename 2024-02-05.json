@@ -1,0 +1,26 @@
+{
+  "name": "Bettie Holmes",
+  "age": 45,
+  "address": {
+    "street": "Wotof Avenue",
+    "city": "Edariceh",
+    "state": "CT",
+    "zip": "22158"
+  },
+  "contact": {
+    "phone": "(660) 362-3079",
+    "servicePhone": "800217248"
+  },
+  "birthday": "1962-01-21T15:16:18.494Z",
+  "ip": "101.36.57.107",
+  "foo": "bar",
+  "profile": {
+    "about": "Ijeine cumew falu abubon at cid sownakdi dotewaw mifsobfe gowbebi finjizcin fecik ka. Ul veezevi vafenju fajuhke onimikov heuki roka bev wobilse sabibo ufined vacu ojsog akegumo ha winpoj. Cihi neged ke loso aja vaemti jowcumor in nepogahiw akfufe ejiumemo wiknelat harde neuwilip ra.",
+    "bio": "Gig hedli cakira okpade rujdo ki pave humweh bob ibu nihpemne vap kicri ke kof. Enahwo vicah wejto ra wipo epu sevkarke tamojuhe ki eribup ikweknac zalas nelso. Ehelecu ak fa zesadvu dohij jikwamrud vechefhon tibzez ino le puude lewge ameecga vujis juke idoufo."
+  },
+  "apiKey": "96e90c7671a78dd7569be98466c293b8a43f8b3885f68c20db56bce6ece8c5e9",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}
