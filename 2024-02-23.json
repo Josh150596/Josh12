@@ -1,0 +1,26 @@
+{
+  "name": "Francis Brewer",
+  "age": 31,
+  "address": {
+    "street": "Hirhos Center",
+    "city": "Omlevli",
+    "state": "NH",
+    "zip": "94772"
+  },
+  "contact": {
+    "phone": "(941) 804-7988",
+    "servicePhone": "800131238"
+  },
+  "birthday": "2004-05-18T14:23:25.747Z",
+  "ip": "174.133.16.113",
+  "foo": "bar",
+  "profile": {
+    "about": "Gof po ceh gubladcis weginba erebum bud ibali gijuze caizta uk jub rogzitnum fonuhhur gi kovlej. Wewdam uraji ke vic kablesim kehis moro tugihi upuho gigwuoji imuvilow josiz ovu wiror jiem mo. Kiz sohemkuf cuuce dizgaspat ru aracemco teglejan kuhze ta rerredoh abnocuh mu tobuv ajjov adkusuj idhito lidcata wuj.",
+    "bio": "Birugen jodwomeh zat emwa otepib ge ul leume ezuma tasuk lo mitdon tomader jujpu tof. Muf ma di kaguk naf emzalul guwnojwu iznum wavos nok popum tikna sedeefa. Ge uvoke kigwenih etake ziag kunuad ba tevducab ettaoha haagdow opato luvgimo ci pohavozo wa id fo uju. Hulla jucsu weceuc rufazoiho lupot jok ri wosvo cof judoc tobeh janhocijo."
+  },
+  "apiKey": "7457b809d3fc5e8df00872ba422dc94be43133b814bd4557608791e8fe14c52e",
+  "currency": {
+    "code": "KYD",
+    "name": "Cayman Islands Dollar"
+  }
+}
