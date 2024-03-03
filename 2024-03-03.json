@@ -1,0 +1,26 @@
+{
+  "name": "Rosalie Mendez",
+  "age": 56,
+  "address": {
+    "street": "Rumum Street",
+    "city": "Vapadem",
+    "state": "GA",
+    "zip": "80098"
+  },
+  "contact": {
+    "phone": "(467) 917-8662",
+    "servicePhone": "800779482"
+  },
+  "birthday": "1992-06-24T03:32:32.408Z",
+  "ip": "233.139.142.101",
+  "foo": "bar",
+  "profile": {
+    "about": "Zinujla bo te doduc zerifa fiz vo wutelfo picjokre udu caowiuz bi dapiko ap ah kun caj. Hu arutaghaw cu wak huj cojik ekeenavup guragumec ni ma sin ar jisoha jiapi iwe. Nazu kiziner eruwev bortefva mo gi ucanabmaz bamegu uce cusfup ri tomeskat ci moakbe ma ga. Pi lubube dag wafurra zurfakhe suc eg vab famgedzuw gabrupit pupitmo idivu gom. Edevowuf hen zofsa helna sipapuere mawduj hakdi wewudlam watuet lu az necrum kudwo pon fi omja go ecipe. Hudogi lihpe civze cat lujjeuto wuzfados po mimiz gonepu peewolig ze tavnik onifekbav moci digu etpas ebegin hu.",
+    "bio": "Job araolenub izwugjo civewgu fofpimef pe ehifoju jirpohguj awebajhup varbe latpe vi. Waka joan orbigi ireja gedna peeh bukugsuk leut rorus vidput coknoge buh riwuple. Hos ruzdalaf wam fepi lifrora elu neg egip je mo dalo we. Su vobelol ler ji jakijtu ce fe voz fauta gifzo gimaar ag coha opulojos."
+  },
+  "apiKey": "db4a7485df5cdc48639a29a3a804e31d92ff660337e2b79884f2e394e0bbf6af",
+  "currency": {
+    "code": "HNL",
+    "name": "Honduras Lempira"
+  }
+}
