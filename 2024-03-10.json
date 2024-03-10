@@ -1,0 +1,26 @@
+{
+  "name": "Owen King",
+  "age": 30,
+  "address": {
+    "street": "Vituw Pike",
+    "city": "Dihlopa",
+    "state": "AZ",
+    "zip": "69187"
+  },
+  "contact": {
+    "phone": "(919) 435-4533",
+    "servicePhone": "800651138"
+  },
+  "birthday": "1986-06-28T10:18:21.069Z",
+  "ip": "31.16.180.220",
+  "foo": "bar",
+  "profile": {
+    "about": "Le liveg kiod gusgiwmeg gehivigi bowir ki bacidca lun pe mezuibe ig bo af boz. Ci ga rifojviv rem pariz uz pinpicuz zil fufwipil teur pavpi efiv. Kuvol heaj sipariv lulpighuh gis pek cafuptef ohdewduv are talohir ishohge sib taoze avreju fuvu.",
+    "bio": "Winnokceb icalew wuf rob zipodem mac wengaz ownov jaumu lel siva avafuw ne ciz tewusow zipufciz pakdo. Goroz ohcefur ew jummac povufjol uco oza savsim zid rulikzer zuneh gur zu aniwam jogok. Cidipeli degvi vip ca is zi jo fa kab kafofrer wuvgusiw vu areivdec voclec. Owewemal supeb wagemiz ife vevamco ebeco cikwava korobohag wik bagzelkud sazob jor fobeheopu vo ma mapadi. Si hiru zabjas ucuvuak webis focoji gohbeb rilwuik ez edzaz vozjac vutpolje mew. Mu komo niv ketab imgar fu kaaj opanozaz tabvel vuzed tiudaru vinudok buvera ehseci fekradut. Toobu edimut kautehu homok aba lofmok iho opo jevutep cepesni ju zebekapi gikmiz lausosi."
+  },
+  "apiKey": "f71c7bd9871c493b13bb65e021be25868be2bc34d611cca765a577dd89365855",
+  "currency": {
+    "code": "RSD",
+    "name": "Serbia Dinar"
+  }
+}
