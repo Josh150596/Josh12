@@ -1,0 +1,26 @@
+{
+  "name": "Herbert Chapman",
+  "age": 60,
+  "address": {
+    "street": "Malgu Mill",
+    "city": "Eczona",
+    "state": "KY",
+    "zip": "72881"
+  },
+  "contact": {
+    "phone": "(202) 423-4408",
+    "servicePhone": "800115925"
+  },
+  "birthday": "1990-04-13T19:26:18.055Z",
+  "ip": "58.70.244.21",
+  "foo": "bar",
+  "profile": {
+    "about": "Du ibe jaudamuh ki gir suhohusi ra waubi defkewa be fizo ugruv. Ehevoboz ravodij isa pukasuri efauba ma lasa ehode bisvel ogfiw firfacob bobajo zupni sakdaj jah dikmaram. Sepivha aku huczohis semgu relo toran aflita zajojizuf sunane mijej aczucum udzoccap zudza routa usudo.",
+    "bio": "Maluhtu echazo nugsapna hu ju akuiravob ivahte mer hidaduz igmol za ligmog vonaeza wevko uvuohbew gi. Ovu zim pe lip apu gocmu lijur gunlazi bocub isuahtif tuwof sawsip ar wupdug. Az fasecfam uzi eptighar egeohuji owe ula mehiriw ruv felod biweta vifmuc ore kamaak rum lak zifo. Ranizfu kaapuije kevvaiv utar rovhehiz faweupu cezevat zem zo fahapuir vabdugej oza uzizu."
+  },
+  "apiKey": "82be7c0d42219b576d5eb97d614c798f298897919f3556dcd7097985a6f24d65",
+  "currency": {
+    "code": "BHD",
+    "name": "Bahrain Dinar"
+  }
+}
