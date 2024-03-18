@@ -1,0 +1,26 @@
+{
+  "name": "Jim Mason",
+  "age": 47,
+  "address": {
+    "street": "Cuni Avenue",
+    "city": "Imvenow",
+    "state": "GA",
+    "zip": "51309"
+  },
+  "contact": {
+    "phone": "(827) 529-1714",
+    "servicePhone": "800487537"
+  },
+  "birthday": "1995-07-24T15:18:56.620Z",
+  "ip": "149.74.137.145",
+  "foo": "bar",
+  "profile": {
+    "about": "Hogiv hik olukes maed inviv useha vulfuvo lub giawaefo en anujibwef wapanig. Cew vok rac vosku testoteno ongikow gool hagutji zaahgef zon nodap si gadaaju odu lug aro godo uva. Tifo rebiwu horim nulruab ol motvuvu ampuben kel cuap atwoc iksobig sodocfu.",
+    "bio": "Napluwdak nu epianuro bunbaep licu pi caj uvcuh kun mahig iso haipem go ce dopdan ac ofjettin. Uvivvo mimroci up denalsim fi ka zu koj uj sovehuha pe fu cuc ku epicasuf witijbak mismefej risep. Vovvi tasev rik cuwol leso sacdo zeen upvewra lubkuguv huf nociwa upar avwajiro we dubbi. Porkujob it vuikir cevgila meow pukrusuw tiftop seh hogzeha ja divcuiro dif jew inlo."
+  },
+  "apiKey": "313b87423c86cfeac512821212de12baa034754466262a558b9db5e398e3e500",
+  "currency": {
+    "code": "ANG",
+    "name": "Netherlands Antilles Guilder"
+  }
+}
