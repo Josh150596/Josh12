@@ -1,0 +1,26 @@
+{
+  "name": "Georgia Cruz",
+  "age": 42,
+  "address": {
+    "street": "Uhona Center",
+    "city": "Amikumej",
+    "state": "CT",
+    "zip": "89810"
+  },
+  "contact": {
+    "phone": "(360) 252-2889",
+    "servicePhone": "800144511"
+  },
+  "birthday": "1988-11-13T10:22:09.873Z",
+  "ip": "108.118.210.5",
+  "foo": "bar",
+  "profile": {
+    "about": "Oki zefhab dadahje tuozoote pe vezja zosfezpa macsutob rujaw koemahu rale tap ep boj fehtizif. Zonkugna kuupiwo ko denedod empeafu ak uvato me kahle tuwriw fozwa oncohut tewku gep oje pujsu silde. Zik fikgi erifebze muswaod ocwabos ki epegi du cud teeg tu jeguvaz co fukib vutsohe oz iw peiteaz.",
+    "bio": "Moikoma jugamufu buv mi ren kek zonocipen cuvnu hewtohes zel zihso jeupwif vobtacir nit af fu cafa. Lowap cerat vaizjom geergon rod torig ega pa puw hamicovu bifceifo vesipel runez zunap wiksel lumuhbe zohned. Bip segedjas tahje bikagbi ife wirujahu erwi vevkacato kedifa wabvu vorifo vaogi zi dowizuzi nokenip leubuli destaol aviju."
+  },
+  "apiKey": "78d7463f493458363d1fd468629a71cdfcb24f980fd9f97e1224fe37c297a155",
+  "currency": {
+    "code": "GYD",
+    "name": "Guyana Dollar"
+  }
+}
