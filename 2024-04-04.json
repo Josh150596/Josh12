@@ -1,0 +1,26 @@
+{
+  "name": "Walter Howard",
+  "age": 22,
+  "address": {
+    "street": "Lakef Drive",
+    "city": "Iraremiz",
+    "state": "WV",
+    "zip": "68257"
+  },
+  "contact": {
+    "phone": "(809) 733-7301",
+    "servicePhone": "800186753"
+  },
+  "birthday": "1984-11-22T15:59:40.526Z",
+  "ip": "15.249.197.181",
+  "foo": "bar",
+  "profile": {
+    "about": "Zuane fogfovi kiv se ovwitu tus mujipimo kozibna bokumum lebuh keltisbar sa hacnoh nan akottus. Mukbew rinacgap dus jofjevo zel heczem mizi fo zojuc tewiwti lus gugagloc gazaci. Bud se ejibuzar hujbefgop toluz depgula fo zabecez rom elo wuhravto pusopehe wezaovo zes. Wufdo tehzihine jaforegu vubripkuc wa up tamow cu egetoduvi omibilnez fupu ruc rocsuf nid tef fa letoaf nouno. Hajem cik nodkir keja fodema peluhi niblora etawoz itim dudodpi tolo riziltu uf po tulodfo eluj. Vek sikur losogi si uw et misjemi tobrevgoj esilib gon ra suubton bidji jomeruk pi go.",
+    "bio": "Ri mun akenoh tamice gasrudkus nofju upe dehu tuchibo guwji fu okervoc evo. Wa co pa ku ave gije zamkujvek seguvfip mimosdu figca zuw naccukum vovguva dekrigod wetjupti gum. Cow veffoasu jikpeb guzeco osek ulukof zupjalsug onezu sa gawohi zi canuasa vas du ru inesu ijuvic petwis."
+  },
+  "apiKey": "2e32cb1e92ef480e418cb36efc31ea483e33dd0da5dc44727b2ec518b164afda",
+  "currency": {
+    "code": "IDR",
+    "name": "Indonesia Rupiah"
+  }
+}
